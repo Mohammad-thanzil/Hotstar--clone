@@ -1295,9 +1295,7 @@ footer .footeritem {
     }
 
     .guard img {
-        top: 348px;
-        width: 100px;
-        left: 30px;
+        display: none;
     }
     .bottom {
         color: #ffff;
